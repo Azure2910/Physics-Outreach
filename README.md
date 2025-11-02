@@ -15,6 +15,9 @@ Physics Outreach là nền tảng giáo dục trực tuyến chuyên biệt cung
 - Tạo **không gian học tập tương tác** và truyền cảm hứng
 - Hỗ trợ **phụ huynh và giáo viên** trong việc theo dõi tiến trình học tập
 
+## [LINK-WEBSITE](https://physi-outreach.vercel.app/)
+
+## [LINK-DEMO](https://drive.google.com/drive/folders/1EJauovgAUuXpeh1v9O_9-0yn_EIF9NL7?usp=sharing)
 ---
 
 ## 🧩 **Tính năng chính**
